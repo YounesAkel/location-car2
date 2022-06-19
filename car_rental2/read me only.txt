@@ -1,0 +1,7 @@
+add file to wampserver www directory then in research write:
+localhost/car_rental2/myDataBase.php
+to create data base automaticaly
+
+
+dashboard login: younes.akel@e-polytechnique.ma
+dashboard password: younes
